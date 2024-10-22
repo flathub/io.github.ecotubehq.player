@@ -58,8 +58,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/mpv-player/mpv/archive/v0.38.0.tar.gz",
-                            "sha256": "86d9ef40b6058732f67b46d0bbda24a074fae860b3eaae05bab3145041303066",
+                            "url": "https://github.com/mpv-player/mpv/archive/v0.39.0.tar.gz",
+                            "sha256": "2ca92437affb62c2b559b4419ea4785c70d023590500e8a52e95ea3ab4554683",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 5348,
@@ -160,11 +160,12 @@
                                 {
                                     "type": "git",
                                     "url": "https://github.com/libjxl/libjxl.git",
-                                    "commit": "v0.11.0",
+                                    "commit": "4df1e9eccdf86b8df4c0c7c08f529263906f9c4f",
                                     "x-checker-data": {
                                         "type": "git",
                                         "tag-pattern": "^v([\\d.]+)$"
-                                    }
+                                    },
+                                    "tag": "v0.11.0"
                                 }
                             ],
                             "modules": [
@@ -213,8 +214,8 @@
                             "sources": [
                                 {
                                     "type": "archive",
-                                    "url": "https://lib.openmpt.org/files/libopenmpt/src/libopenmpt-0.7.9+release.autotools.tar.gz",
-                                    "sha256": "0386e918d75d797e79d5b14edd0847165d8b359e9811ef57652c0a356a2dfcf4",
+                                    "url": "https://lib.openmpt.org/files/libopenmpt/src/libopenmpt-0.7.10+release.autotools.tar.gz",
+                                    "sha256": "093713c1c1024f4f10c4779a66ceb2af51fb7c908a9e99feb892d04019220ba1",
                                     "x-checker-data": {
                                         "type": "anitya",
                                         "project-id": 141468,
@@ -248,8 +249,8 @@
                             "sources": [
                                 {
                                     "type": "archive",
-                                    "url": "https://ffmpeg.org/releases/ffmpeg-7.0.2.tar.xz",
-                                    "sha256": "8646515b638a3ad303e23af6a3587734447cb8fc0a0c064ecdb8e95c4fd8b389",
+                                    "url": "https://ffmpeg.org/releases/ffmpeg-7.1.tar.xz",
+                                    "sha256": "40973d44970dbc83ef302b0609f2e74982be2d85916dd2ee7472d30678a7abe6",
                                     "x-checker-data": {
                                         "type": "anitya",
                                         "project-id": 5405,
@@ -407,8 +408,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/yt-dlp/yt-dlp.git",
-                    "tag": "2024.08.01",
-                    "commit": "abe10131fc235b7cc7af39f833e417f4264c1fdb",
+                    "tag": "2024.10.22",
+                    "commit": "2a246749ec5ead2c6b485e702a1c54c79bd0e51a",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
