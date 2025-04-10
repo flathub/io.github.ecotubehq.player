@@ -130,8 +130,8 @@
                                 {
                                     "type": "git",
                                     "url": "https://git.videolan.org/git/ffmpeg/nv-codec-headers.git",
-                                    "tag": "n12.2.72.0",
-                                    "commit": "c69278340ab1d5559c7d7bf0edf615dc33ddbba7",
+                                    "tag": "n13.0.19.0",
+                                    "commit": "e844e5b26f46bb77479f063029595293aa8f812d",
                                     "x-checker-data": {
                                         "type": "git",
                                         "tag-pattern": "^n([\\d.]+)$"
@@ -160,11 +160,12 @@
                                 {
                                     "type": "git",
                                     "url": "https://github.com/libjxl/libjxl.git",
-                                    "commit": "v0.11.0",
+                                    "commit": "794a5dcf0d54f9f0b20d288a12e87afb91d20dfc",
                                     "x-checker-data": {
                                         "type": "git",
                                         "tag-pattern": "^v([\\d.]+)$"
-                                    }
+                                    },
+                                    "tag": "v0.11.1"
                                 }
                             ],
                             "modules": [
@@ -213,8 +214,8 @@
                             "sources": [
                                 {
                                     "type": "archive",
-                                    "url": "https://lib.openmpt.org/files/libopenmpt/src/libopenmpt-0.7.9+release.autotools.tar.gz",
-                                    "sha256": "0386e918d75d797e79d5b14edd0847165d8b359e9811ef57652c0a356a2dfcf4",
+                                    "url": "https://lib.openmpt.org/files/libopenmpt/src/libopenmpt-0.7.13+release.autotools.tar.gz",
+                                    "sha256": "dcd7cde4f9c498eb496c4556e1c1b81353e2a74747e8270a42565117ea42e1f1",
                                     "x-checker-data": {
                                         "type": "anitya",
                                         "project-id": 141468,
@@ -248,8 +249,8 @@
                             "sources": [
                                 {
                                     "type": "archive",
-                                    "url": "https://ffmpeg.org/releases/ffmpeg-7.0.2.tar.xz",
-                                    "sha256": "8646515b638a3ad303e23af6a3587734447cb8fc0a0c064ecdb8e95c4fd8b389",
+                                    "url": "https://ffmpeg.org/releases/ffmpeg-7.1.1.tar.xz",
+                                    "sha256": "733984395e0dbbe5c046abda2dc49a5544e7e0e1e2366bba849222ae9e3a03b1",
                                     "x-checker-data": {
                                         "type": "anitya",
                                         "project-id": 5405,
@@ -315,8 +316,8 @@
                             "sources": [
                                 {
                                     "type": "archive",
-                                    "url": "https://breakfastquay.com/files/releases/rubberband-3.3.0.tar.bz2",
-                                    "sha256": "d9ef89e2b8ef9f85b13ac3c2faec30e20acf2c9f3a9c8c45ce637f2bc95e576c",
+                                    "url": "https://breakfastquay.com/files/releases/rubberband-4.0.0.tar.bz2",
+                                    "sha256": "af050313ee63bc18b35b2e064e5dce05b276aaf6d1aa2b8a82ced1fe2f8028e9",
                                     "x-checker-data": {
                                         "type": "anitya",
                                         "project-id": 4222,
@@ -344,8 +345,8 @@
                                 {
                                     "type": "git",
                                     "url": "https://github.com/ccxvii/mujs",
-                                    "tag": "1.3.5",
-                                    "commit": "0df0707f2f10187127e36acfbc3ba9b9ca5b5cf0",
+                                    "tag": "1.3.6",
+                                    "commit": "cc569c5fa9a7a2498177693b5617605c2ff5b260",
                                     "x-checker-data": {
                                         "type": "git",
                                         "tag-pattern": "^([\\d.]+)$"
@@ -407,8 +408,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/yt-dlp/yt-dlp.git",
-                    "tag": "2025.02.19",
-                    "commit": "9c3e8b16967cb6582712b6b7e4c107631d3873d0",
+                    "tag": "2025.03.31",
+                    "commit": "349f36606fa7fb658216334a73ac7825c13503c2",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
