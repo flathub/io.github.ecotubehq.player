@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.ecotubehq.player",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "46",
+    "runtime-version": "48",
     "sdk": "org.gnome.Sdk",
     "command": "ecotube",
     "finish-args": [
@@ -36,7 +36,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ecotubehq/player",
-                    "tag": "25.3.3"
+                    "tag": "25.4.1"
                 }
             ],
             "modules": [
@@ -58,8 +58,8 @@
                     "sources": [
                         {
                             "type": "archive",
-                            "url": "https://github.com/mpv-player/mpv/archive/v0.38.0.tar.gz",
-                            "sha256": "86d9ef40b6058732f67b46d0bbda24a074fae860b3eaae05bab3145041303066",
+                            "url": "https://github.com/mpv-player/mpv/archive/v0.40.0.tar.gz",
+                            "sha256": "10a0f4654f62140a6dd4d380dcf0bbdbdcf6e697556863dc499c296182f081a3",
                             "x-checker-data": {
                                 "type": "anitya",
                                 "project-id": 5348,
@@ -130,8 +130,8 @@
                                 {
                                     "type": "git",
                                     "url": "https://git.videolan.org/git/ffmpeg/nv-codec-headers.git",
-                                    "tag": "n12.2.72.0",
-                                    "commit": "c69278340ab1d5559c7d7bf0edf615dc33ddbba7",
+                                    "tag": "n13.0.19.0",
+                                    "commit": "e844e5b26f46bb77479f063029595293aa8f812d",
                                     "x-checker-data": {
                                         "type": "git",
                                         "tag-pattern": "^n([\\d.]+)$"
@@ -248,8 +248,8 @@
                             "sources": [
                                 {
                                     "type": "archive",
-                                    "url": "https://ffmpeg.org/releases/ffmpeg-7.0.2.tar.xz",
-                                    "sha256": "8646515b638a3ad303e23af6a3587734447cb8fc0a0c064ecdb8e95c4fd8b389",
+                                    "url": "https://ffmpeg.org/releases/ffmpeg-7.1.1.tar.xz",
+                                    "sha256": "733984395e0dbbe5c046abda2dc49a5544e7e0e1e2366bba849222ae9e3a03b1",
                                     "x-checker-data": {
                                         "type": "anitya",
                                         "project-id": 5405,
@@ -407,8 +407,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/yt-dlp/yt-dlp.git",
-                    "tag": "2025.02.19",
-                    "commit": "9c3e8b16967cb6582712b6b7e4c107631d3873d0",
+                    "tag": "2025.03.31",
+                    "commit": "349f36606fa7fb658216334a73ac7825c13503c2",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
