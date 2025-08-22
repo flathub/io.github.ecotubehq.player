@@ -36,7 +36,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ecotubehq/player",
-                    "tag": "25.8.1"
+                    "tag": "25.8.2"
                 }
             ],
             "modules": [
@@ -407,8 +407,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/yt-dlp/yt-dlp.git",
-                    "tag": "2025.07.21",
-                    "commit": "035b1ece8f382358f5503bf5011ca098f6c9eaf9",
+                    "tag": "2025.08.20",
+                    "commit": "575753b9f398da0aca52bfb675779fd5d1ae68b5",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d.]+)$"
