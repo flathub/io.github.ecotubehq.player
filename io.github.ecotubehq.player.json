@@ -36,7 +36,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ecotubehq/player",
-                    "tag": "25.12.02"
+                    "tag": "26-01-01"
                 }
             ],
             "modules": [
