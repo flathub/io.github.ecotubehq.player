@@ -36,7 +36,12 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ecotubehq/player",
-                    "tag": "26-01-01"
+                    "tag": "26-02-01",
+                    "x-checker-data": {
+                        "type": "git",
+                        "tag-pattern": "^([\\d-]+)$",
+                        "is-important": true
+                    }
                 }
             ],
             "modules": [
@@ -79,8 +84,7 @@
                                 "type": "anitya",
                                 "project-id": 5348,
                                 "stable-only": true,
-                                "url-template": "https://github.com/mpv-player/mpv/archive/v$version.tar.gz",
-                                "is-important": true
+                                "url-template": "https://github.com/mpv-player/mpv/archive/v$version.tar.gz"
                             }
                         }
                     ],
@@ -277,8 +281,7 @@
                                         "type": "anitya",
                                         "project-id": 5405,
                                         "stable-only": true,
-                                        "url-template": "https://ffmpeg.org/releases/ffmpeg-$version.tar.xz",
-                                        "is-important": true,
+                                        "url-template": "https://ffmpeg.org/releases/ffmpeg-$version.tar.xz"
                                         "versions": { "<": "8"}
                                     }
                                 }
