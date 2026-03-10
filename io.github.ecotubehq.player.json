@@ -36,7 +36,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/ecotubehq/player",
-                    "tag": "26-02-01",
+                    "tag": "26-03-01",
                     "x-checker-data": {
                         "type": "git",
                         "tag-pattern": "^([\\d-]+)$",
