@@ -21,6 +21,9 @@
         "/include",
         "/lib/cmake",
         "/lib/pkgconfig",
+        "/share/ecotube/player-info.pdf",
+        "*-super-resolution-logo.*",
+        "/share/ladspa",
         "/share/man",
         "*.la",
         "*.a"
